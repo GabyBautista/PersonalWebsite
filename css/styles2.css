@@ -1,0 +1,42 @@
+body{
+  background-image: url(https://fondosmil.com/fondo/13555.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.nav-link{
+  color: white;
+}
+#myTab{
+  border-radius: 20px 20px 20px 20px;
+  margin-bottom: 20px;
+  box-shadow: 10px 10px 10px 10px;
+
+
+
+}
+p{
+  margin: 25px;
+  color: white;
+}
+.skills{
+  margin: 25px;
+  color: white;
+}
+.uspallata,.potrerillos, .aconcagua{
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+  color: white;
+  text-shadow: 10px 10px 10px;
+}
+
+
+
+
+
+
+
+
+}
